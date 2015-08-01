@@ -1,1 +1,2 @@
-### Book_Media_Shop
+##### Book_Media_Shop
+This project is a simple media shop that sells books, CDs and movies. The user is given a choice of CDs, books or movies. When the user makes a choice, a listing of the available items of the chosen media appears. The user chooses from this list. The user is charged the cost of the item. The user is asked to rate the item on a scale of 1 – 10. The rating is stored to contribute to an average rating of the book.
